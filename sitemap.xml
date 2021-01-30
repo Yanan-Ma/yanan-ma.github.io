@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yanan-ma.github.io/2021/01/01/ArticleTest/</loc>
+    
+    <lastmod>2021-01-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yanan-ma.github.io/2020/04/17/Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2021-01-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yanan-ma.github.io/about/index.html</loc>
     
     <lastmod>2021-01-01</lastmod>
@@ -30,13 +44,6 @@
   </url>
   
   <url>
-    <loc>http://yanan-ma.github.io/2020/04/17/Hexo-Theme-LiveMyLife/</loc>
-    
-    <lastmod>2021-01-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yanan-ma.github.io/404.html</loc>
     
     <lastmod>2021-01-01</lastmod>
@@ -46,7 +53,7 @@
 
   <url>
     <loc>http://yanan-ma.github.io/</loc>
-    <lastmod>2021-01-01</lastmod>
+    <lastmod>2021-01-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -54,14 +61,14 @@
   
   <url>
     <loc>http://yanan-ma.github.io/tags/Hexo/</loc>
-    <lastmod>2021-01-01</lastmod>
+    <lastmod>2021-01-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yanan-ma.github.io/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2021-01-01</lastmod>
+    <lastmod>2021-01-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -70,7 +77,14 @@
   
   <url>
     <loc>http://yanan-ma.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2021-01-01</lastmod>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yanan-ma.github.io/categories/Aritcle-Test/</loc>
+    <lastmod>2021-01-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
